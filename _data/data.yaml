@@ -1,0 +1,106 @@
+sidebar:
+  name: Vitalii Piskovyi
+  tagline: Senior Software Engineer
+  avatar: profile.jpg
+
+  linkedin: vitalii-piskovyi
+  github: vpx
+  stack-overflow: 3179674/vpx
+
+  languages:
+    - idiom: Ukrainian
+      level: Native
+
+    - idiom: English
+      level: Professional working proficiency
+
+    - idiom: German
+      level: Elementary proficiency
+
+  interests:
+    - Bicycling
+    - Snowboarding
+    - Joging
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Hello, my name is Vitalii and I'm an engineer. Sounds simple. But having overall more than 10 years of commercial experience
+    in software development industry I wouldn't designate myself to a single role as a developer, engineer or manager.
+     I like to be engaged in different kinds of activity in creating something digital, modern and complex.
+
+    Mainly I've been working on research, design, and programming of new web applications and REST API's.
+    I know what code refactoring is and how to do it properly. I've integrated a lot 3rd party API's and know all pain
+    in using something which was written hundreds of years ago. I like testing and do not hate bug fixing.
+    Also, I have some experience in DevOps and I'm not afraid of Unix. My strong personal qualities are analytical thinking,
+    fluent communication, and problem-solving skills.
+
+education:
+  - degree: Master degree in Computer Science and Information Engineering
+    university: National Aviation University of Ukraine
+    time: 2010 - 2016
+
+experiences:
+  - role: Senior Software Developer
+    time: February 2018 - Present
+    company: YOC AG, Berlin, Germany
+    details: |
+      Developed new features from internal projects.
+
+      Stack: PHP 7.3, Symfony 3/4, API-Platform, Doctrine 2, MySQL, Redis, ElasticSearch, RabbitMQ, PHPUnit, Behat,
+      Capistrano, Jenkins, Kibana, JIRA, Confluence
+
+        - Redesigned a monolithic application to the separated independent microservices using Symfony 4 and API Platform.
+        - Implemented an asynchronous process for data synchronization between 3rd party API's and our services.
+        - Introduced BDD testing with Behat.
+
+  - role: Senior PHP Software Engineer
+    time: October 2016 - January 2018 (1 year 4 months)
+    company: AUTO1 Group, Berlin, Germany
+    details: |
+      Implemented new features for the company's projects. Mentored middle developers. Worked closely with
+      the DevOps team to introduce dockerization for the company's projects.
+
+      Stack: PHP 5/PHP 7, Silex, Symfony 2/3, Doctrine 2, MySQL, PostgreSQL, Redis, ElasticSearch, PHPUnit, Behat,
+      AWS (ECS, S3), Terraform, Docker, Jenkins, Capistrano, Kibana, JIRA, Confluence
+
+        - Suggested automating for routine tasks using Jenkins jobs.
+        - Implemented with the DevOps team a new deployment way to AWS using ECS, Terraform and Jenkins.
+        - Introduced BDD testing using Behat in the development team to test API's.
+
+  - role: Team Lead
+    time: August 2015 - October 2016 (1 year 3 months)
+    company: WiseWeb LTD, Kyiv, Ukraine
+    details: |
+      Performed as a developer, team lead, scrum-master, and project owner. The team consisted of 4 senior full stack developers.
+
+      Stack: PHP 5/7, Symfony 2/3, Doctrine 2, RabbitMQ, Gearman, Redis, MySQL(MariaDB), PostgreSQL, MongoDB, OrientDB,
+      Neo4j, ElasticSearch, PhantomJS, NodeJS, BackboneJS, AngularJS, CoffeeScript, PHPUnit, Behat, Docker, TeamCity, Kibana, JIRA, Confluence
+
+        - Migrated 8 separated projects (REST API's) from PHP 5 to PHP 7 and from Symfony 2 to Symfony 3 with 0 (zero) issues.
+        - Implemented our own ODM for OrientDB.
+        - Created our own JSON-like query language to communicate between our services. (Something similar to Query DSL from ElasticSearch and GraphQL)
+
+  - role: Senior Full Stack Developer
+    time: June 2014 - August 2015 (1 year 3 months)
+    company: WiseWeb LTD, Kyiv, Ukraine
+    details: |
+      Developed internal projects for the company using PHP 5 and Symfony 2 framework as a base for backend
+      applications and AngularJS for the frontend ones.
+
+      Stack: PHP 5, Symfony 2, Doctrine 2, RabbitMQ, Redis, MySQL(MariaDB), PhantomJS, AngularJS, CoffeeScript, PHPUnit,
+      Behat, Docker, TeamCity, Kibana, JIRA, Confluence
+
+        - Achieved 70% code coverage with unit tests which helped a lot in implementing new features.
+        - Refactored all the not testable code which made the applications more maintainable.
+        - Introduced CI/CD via TeamCity.
+skills:
+  title: Skills &amp; Proficiency
+  toolset:
+    - { name: PHP 5/7, level: 99% }
+    - { name: JavaScript, level: 66% }
+    - { name: Swift, level: 33% }
+    - { name: Objective-C, level: 33% }
+    - { name: Golang, level: 22% }
+    - { name: Java, level: 11% }
+    - { name: Pyton, level: 11% }
