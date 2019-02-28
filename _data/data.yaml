@@ -47,7 +47,7 @@ experiences:
     details: |
       I've been developing new features for internal projects of the company.
 
-      Stack: PHP 7.3, Symfony 3/4, API-Platform, Doctrine 2, MySQL, Redis, ElasticSearch, RabbitMQ, PHPUnit, Behat,
+      Tech Stack: PHP 7.3, Symfony 3/4, API-Platform, Doctrine 2, MySQL, Redis, ElasticSearch, RabbitMQ, PHPUnit, Behat,
       Capistrano, Jenkins, Kibana, JIRA, Confluence
 
         - Redesigned a monolithic application to the separated independent microservices using Symfony 4 and API Platform.
@@ -61,7 +61,7 @@ experiences:
       Implemented new features for the company's projects. Mentored middle developers. Worked closely with
       the DevOps team to introduce dockerization for the company's projects.
 
-      Stack: PHP 5/PHP 7, Silex, Symfony 2/3, Doctrine 2, MySQL, PostgreSQL, Redis, ElasticSearch, PHPUnit, Behat,
+      Tech Stack: PHP 5/PHP 7, Silex, Symfony 2/3, Doctrine 2, MySQL, PostgreSQL, Redis, ElasticSearch, PHPUnit, Behat,
       AWS (ECS, S3), Terraform, Docker, Jenkins, Capistrano, Kibana, JIRA, Confluence
 
         - Suggested automating for routine tasks using Jenkins jobs.
@@ -74,7 +74,7 @@ experiences:
     details: |
       Performed as a developer, team lead, scrum-master, and project owner. The team consisted of 4 senior full stack developers.
 
-      Stack: PHP 5/7, Symfony 2/3, Doctrine 2, RabbitMQ, Gearman, Redis, MySQL(MariaDB), PostgreSQL, MongoDB, OrientDB,
+      Tech Stack: PHP 5/7, Symfony 2/3, Doctrine 2, RabbitMQ, Gearman, Redis, MySQL(MariaDB), PostgreSQL, MongoDB, OrientDB,
       Neo4j, ElasticSearch, PhantomJS, NodeJS, BackboneJS, AngularJS, CoffeeScript, PHPUnit, Behat, Docker, TeamCity, Kibana, JIRA, Confluence
 
         - Migrated 8 separated projects (REST API's) from PHP 5 to PHP 7 and from Symfony 2 to Symfony 3 with 0 (zero) issues.
@@ -88,7 +88,7 @@ experiences:
       Developed internal projects for the company using PHP 5 and Symfony 2 framework as a base for backend
       applications and AngularJS for the frontend ones.
 
-      Stack: PHP 5, Symfony 2, Doctrine 2, RabbitMQ, Redis, MySQL(MariaDB), PhantomJS, AngularJS, CoffeeScript, PHPUnit,
+      Tech Stack: PHP 5, Symfony 2, Doctrine 2, RabbitMQ, Redis, MySQL(MariaDB), PhantomJS, AngularJS, CoffeeScript, PHPUnit,
       Behat, Docker, TeamCity, Kibana, JIRA, Confluence
 
         - Achieved 70% code coverage with unit tests which helped a lot in implementing new features.
