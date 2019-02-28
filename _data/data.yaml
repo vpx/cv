@@ -45,7 +45,7 @@ experiences:
     time: February 2018 - Present
     company: YOC AG, Berlin, Germany
     details: |
-      Developed new features from internal projects.
+      Developed new features for internal projects of the company.
 
       Stack: PHP 7.3, Symfony 3/4, API-Platform, Doctrine 2, MySQL, Redis, ElasticSearch, RabbitMQ, PHPUnit, Behat,
       Capistrano, Jenkins, Kibana, JIRA, Confluence
