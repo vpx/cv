@@ -19,9 +19,9 @@ sidebar:
       level: Elementary proficiency
 
   interests:
-    - Bicycling
+    - Cycling
     - Snowboarding
-    - Joging
+    - Jogging
 
 career-profile:
   title: Career Profile
@@ -33,7 +33,7 @@ career-profile:
     Mainly I've been working on research, design, and programming of new web applications and REST API's.
     I know what code refactoring is and how to do it properly. I've integrated a lot 3rd party API's and know all the pain
     in using something which was written hundreds of years ago. I like writing tests and I don't hesitate to do bug-fixing.
-    Also, I have some experience in DevOps and I'm not afraid of Unix. My strong personal qualities are analytical thinking,
+    Besides that, I have experience in team leadership and some experience in DevOps. My strong personal qualities are analytical thinking,
     fluent communication, and problem-solving skills.
 
 education:
@@ -42,11 +42,23 @@ education:
     time: 2010 - 2016
 
 experiences:
+  - role: Lead Backend Engineer
+    time: September 2019 - Present
+    company: MAGNUM EST Digital Health GmbH (YAS.life), Berlin, Germany
+    details: |
+      Technically speaking, I've been developing a backend part of new features for mobile apps which is a monotonic app with REST API and an admin panel,
+      but in general, I make people healthier by helping to engage them in the simple challenges we have developed at the company.
+
+      Tech Stack: PHP 7.2, Symfony 3.4, Doctrine 2, PostgreSQL, PHPUnit, Behat, AWS (EC2, RDS, SQS), Jenkins, JIRA, Confluence
+
+        - Re-designed, implemented and shipped one of the most important modules of the backend.
+        - Implemented an asynchronous process for data synchronization between 3rd party API's using AWS SQS.
+
   - role: Senior Software Developer
-    time: February 2018 - Present
+    time: February 2018 - August 2019 (1 year 7 months)
     company: YOC AG, Berlin, Germany
     details: |
-      I've been developing new features for internal projects of the company. In general, this is a pool of microservices
+      Developed new features for internal projects of the company. In general, this is a pool of microservices
       written on Symfony 3/4 and API-Platform.
 
       Tech Stack: PHP 7.3, Symfony 3/4, API-Platform, Doctrine 2, MySQL, Redis, ElasticSearch, RabbitMQ, PHPUnit, Behat,
@@ -64,7 +76,7 @@ experiences:
       the DevOps team to introduce dockerization for the company's projects.
 
       Tech Stack: PHP 5/PHP 7, Silex, Symfony 2/3, Doctrine 2, MySQL, PostgreSQL, Redis, ElasticSearch, PHPUnit, Behat,
-      AWS (ECS, S3), Terraform, Docker, Jenkins, Capistrano, Kibana, JIRA, Confluence
+      AWS (ECS, EC2, S3), Terraform, Docker, Jenkins, Capistrano, Kibana, JIRA, Confluence
 
         - Suggested automating for routine tasks using Jenkins jobs.
         - Implemented with the DevOps team a new deployment way to AWS using ECS, Terraform and Jenkins.
@@ -99,7 +111,7 @@ experiences:
 skills:
   title: Skills &amp; Proficiency
   toolset:
-    - { name: PHP 5/7, level: 99% }
+    - { name: PHP, level: 99% }
     - { name: JavaScript, level: 66% }
     - { name: Swift, level: 33% }
     - { name: Objective-C, level: 33% }
