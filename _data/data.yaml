@@ -37,10 +37,10 @@ education:
 
 experiences:
   - role: Lead Software Engineer
-      time: March 2020 - Present
-      company: Kollex GmbH, Berlin, Germany
-      details: |
-        Main key duties:
+    time: March 2020 - Present
+    company: Kollex GmbH, Berlin, Germany
+    details: |
+      Main key duties:
         - defining standard tooling, methods, and ways of working in the team and team’s technologies
         - ensuring high product- and code-quality by establishing coding standards (coding style, monitoring, application architecture, etc.)
         - defining and constantly revising processes and approaches for quality assurance (code reviews, pair programming, testing)
@@ -52,7 +52,7 @@ experiences:
         - holding regular 1-1 meetings with team members for building a strong relationship and for providing quick support & feedback
         - giving performance reviews and feedback talks, considering feedback from your team members as well as other teams
 
-        Tech Stack: PHP 7/8, SprykerOS, Symfony 4/5, Doctrine 2, VueJS, React Native, PostgreSQL, PHPUnit, AWS (ECS, RDS, EventBridge, API Gateway, Amplify, AppSync, Lambda end more), CircleCI, GitHub Action, Fastlane, AppCenter, JIRA, Confluence
+      Tech Stack: PHP 7/8, SprykerOS, Symfony 4/5, Doctrine 2, VueJS, React Native, PostgreSQL, PHPUnit, AWS (ECS, RDS, EventBridge, API Gateway, Amplify, AppSync, Lambda end more), CircleCI, GitHub Action, Fastlane, AppCenter, JIRA, Confluence
   - role: Lead Backend Engineer
     time: September 2019 - February 2020
     company: MAGNUM EST Digital Health GmbH (YAS.life), Berlin, Germany
