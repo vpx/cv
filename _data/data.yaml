@@ -1,7 +1,6 @@
 sidebar:
   name: Vitalii Piskovyi
-  tagline: Senior Software Engineer
-  avatar: profile.jpg
+  tagline: Lead Software Engineer
 
   email: contact@vitaliipiskovyi.dev
   linkedin: vitalii-piskovyi
@@ -21,22 +20,15 @@ sidebar:
   interests:
     - Cycling
     - Jogging
-    - Triathlon
     - Traveling
     - Snowboarding
 
 career-profile:
   title: Career Profile
   summary: |
-    Hello, my name is Vitalii and I'm an engineer. Sounds simple. But having overall more than 10 years of commercial experience
-    in the software development industry, I wouldn't designate myself to a single role as a developer, engineer or manager.
-    I like being engaged in different activities during creating something digital, modern and complex.
-
-    Mainly I've been working on research, design, and programming of new web applications and REST API's.
-    I know what code refactoring is and how to do it properly. I've integrated a lot 3rd party API's and know all the pain
-    in using something which was written hundreds of years ago. I like writing tests and I don't hesitate to do bug-fixing.
-    Besides that, I have experience in team leadership and some experience in DevOps. My strong personal qualities are analytical thinking,
-    fluent communication, and problem-solving skills.
+    Having overall more than 10 years of commercial experience in the software development industry,
+    I wouldn't define myself to a single role as an engineer, or manager.
+    I like being involved in different activities during creating digital, modern, and complex projects including a full software development life cycle.
 
 education:
   - degree: Master degree in Computer Science and Information Engineering
@@ -44,6 +36,23 @@ education:
     time: 2010 - 2016
 
 experiences:
+  - role: Lead Software Engineer
+      time: March 2020 - Present
+      company: Kollex GmbH, Berlin, Germany
+      details: |
+        Main key duties:
+        - defining standard tooling, methods, and ways of working in the team and team’s technologies
+        - ensuring high product- and code-quality by establishing coding standards (coding style, monitoring, application architecture, etc.)
+        - defining and constantly revising processes and approaches for quality assurance (code reviews, pair programming, testing)
+        - build and ensure excellence in our team by leading and coaching your team members and identifying the potential for training, education, and growth
+        - discussing requirements and technical issues with the product owner and other stakeholders
+        - breaking down big projects into small, parallelizable tasks that can be delegated to the team
+        - translating business needs into software solutions
+        - growing and developing the team by hiring talent and negotiating salaries in consultation with the CTO
+        - holding regular 1-1 meetings with team members for building a strong relationship and for providing quick support & feedback
+        - giving performance reviews and feedback talks, considering feedback from your team members as well as other teams
+
+        Tech Stack: PHP 7/8, SprykerOS, Symfony 4/5, Doctrine 2, VueJS, React Native, PostgreSQL, PHPUnit, AWS (ECS, RDS, EventBridge, API Gateway, Amplify, AppSync, Lambda end more), CircleCI, GitHub Action, Fastlane, AppCenter, JIRA, Confluence
   - role: Lead Backend Engineer
     time: September 2019 - February 2020
     company: MAGNUM EST Digital Health GmbH (YAS.life), Berlin, Germany
